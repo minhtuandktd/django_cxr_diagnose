@@ -1,0 +1,8 @@
+Django==4.2.1
+djangorestframework==3.14.0
+django-cors-headers==4.2.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+dicom2jpg==0.1.10
+
+
